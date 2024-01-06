@@ -804,7 +804,7 @@ text-decoration: none;}
         transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
         border-color: #4D5AE5;
 }
-.svg-person{
+.svg-form{
         position: absolute;
         left: 16px;
         top: 50%;
@@ -822,7 +822,7 @@ text-decoration: none;}
         line-height: 1.17;
         letter-spacing: 0.04em;
         color: rgba(46, 47, 66, 0.4);
-        border:(1px solid rgba(46, 47, 66, 0.4));
+        border: 1px solid rgba(46, 47, 66, 0.4);
         border-radius: 4px;
         background-color: transparent;
         padding: 8px 16px;
