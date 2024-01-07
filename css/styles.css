@@ -855,7 +855,7 @@ text-decoration: none;}
         fill: transparent;
 
 }
-.checkbox:checked + .checkbox-span {
+.checkbox:checked,.checkbox-span {
 background-color: #404bbf;
 border: none;
 fill: #F4F4FD;
