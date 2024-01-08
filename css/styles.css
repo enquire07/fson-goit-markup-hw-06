@@ -733,7 +733,7 @@ text-decoration: none;}
 .form-input{
         width: 264px;
         height: 40px;
-        border:(1px solid #ffffff);
+        border-color:(1px solid #ffffff);
         background-color: transparent;
         font-size: 12px;
         line-height: 1.5;
