@@ -838,9 +838,7 @@ text-decoration: none;}
         padding-left: 20px;
         display: flex;
 }
-.span-box{
-        visibility: hidden;
-}
+
 .check-lab{
         display: block;
         font-size: 12px;
