@@ -734,7 +734,7 @@ text-decoration: none;}
 .form-input{
         width: 264px;
         height: 40px;
-        border-color:(1px solid #ffffff);
+        border-color: 1px solid #FFFFFF;
         background-color: transparent;
         font-size: 12px;
         line-height: 1.5;
@@ -816,8 +816,8 @@ text-decoration: none;}
 .comment-form{
         margin-bottom: 16px;
 }
-.text-form{
-        width: 90%;
+.comment-form >.text-form{
+        width: 100%;
         height: 120px;
         font-size: 12px;
         line-height: 1.17;
