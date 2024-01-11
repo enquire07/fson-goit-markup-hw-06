@@ -867,7 +867,7 @@ text-decoration: none;}
         position: relative;
 
 }
-.box-input :checked{
+.box-input:checked + .span-box{
 background-color: #404bbf;
 border: none;
 fill: #F4F4FD;
