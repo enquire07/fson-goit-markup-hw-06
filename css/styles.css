@@ -868,7 +868,7 @@ text-decoration: none;}
         position: relative;
 
 }
-.input [id=user-privacy]:checked + .span-box{
+.box-input :checked + .check-lab > .span-box{
 background-color: #404bbf;
 border: none;
 fill: #F4F4FD;
