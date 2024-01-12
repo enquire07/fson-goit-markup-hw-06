@@ -717,10 +717,7 @@ text-decoration: none;}
         bottom: 45%;
 }
 .pop-up{
-        padding-top: 72px;
-        padding-right: 24;
-        padding-bottom: 24;
-        padding-left: 24;
+        padding: 72px 24px 24px 24px;
 }
 .foot_er{
         position: relative;
