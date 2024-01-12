@@ -864,7 +864,7 @@ text-decoration: none;}
         position: relative;
 
 }
-.#user-privacy:checked + .span-box{
+.box-input:checked + .span-box{
 background-color: #404bbf;
 border: none;
 fill: #F4F4FD;
